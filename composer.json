@@ -37,6 +37,6 @@
         "test": "vendor/bin/phpunit"
     },
     "bin": [
-        "om-tailwindo"
+        "tailwindo"
     ]
 }
