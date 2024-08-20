@@ -6,7 +6,7 @@
     "Tailwind",
     "Bootstrap"
     ],
-    "homepage": "https://github.com/awssat/tailwindo",
+    "homepage": "https://github.com/oseimensah/tailwindo",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +16,7 @@
     ],
 
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^7.2|^8.2",
         "symfony/console": "^4.0|^5.0|^6.0"
     },
     "require-dev": {
