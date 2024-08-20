@@ -33,12 +33,6 @@
             "Awssat\\Tailwindo\\Test\\": "tests"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/oseimensah/tailwindo"
-        }
-    ],
     "scripts": {
         "test": "vendor/bin/phpunit"
     },
