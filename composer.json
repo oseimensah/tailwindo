@@ -1,5 +1,5 @@
 {
-    "name": "awssat/tailwindo",
+    "name": "awssat-om/tailwindo",
     "description": "Convert Bootstrap CSS to Tailwind CSS",
     "keywords": [
     "CSS",
@@ -37,6 +37,6 @@
         "test": "vendor/bin/phpunit"
     },
     "bin": [
-        "tailwindo"
+        "om-tailwindo"
     ]
 }
